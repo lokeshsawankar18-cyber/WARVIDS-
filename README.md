@@ -1,6 +1,6 @@
 “WARVIDS: Wireless Autonomous Rover for Vision-based Intelligent Defence System”
 
-PROJECT  OVERVIEW
+*PROJECT  OVERVIEW*
 
 1.WARVIDS is a wireless autonomous rover designed to combine mobility, surveillance, and intelligent targeting into a single platform.
 
@@ -11,7 +11,7 @@ PROJECT  OVERVIEW
 4.The platform aims to enhance operator responsiveness while reducing physical risk in hazardous environments. Its modular architecture supports both defence and civil applications.
 
 
-Problem Statement
+*Problem Statement*
 
 Human Risk - Entering hazardous or combat areas is unsafe for humans..
 
